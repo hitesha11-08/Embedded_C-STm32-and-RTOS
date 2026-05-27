@@ -130,7 +130,7 @@ void string(char *str){
 
 int main(void){
 
-	char dd[]="Aravind samy Embedded engineer";
+	char dd[]="I2C-IMPLEMENTED BY HITESHA M";
 
 	gpio_int();
     i2c_int();
